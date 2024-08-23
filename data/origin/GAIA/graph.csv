@@ -1,0 +1,8 @@
+u,v
+redisservice,webservice
+redisservice,dbservice
+redisservice,loginservice
+redisservice,mobservice
+dbservice,loginservice
+loginservice,webservice
+mobservice,webservice
